@@ -7,6 +7,7 @@ So, we designed an **autonomous robot** using **Arduino** that can detect fire u
 Once it's close enough, it turns on a **mini water pump** to spray water and put out the fire.
 
 Here’s how we built it
+
 Required Components are: 
 1. Arduino UNO
 2. Fire sensor or Flame sensor (3 Nos)
