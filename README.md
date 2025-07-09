@@ -27,5 +27,6 @@ The fire sensor detects flames and sends signals to the Arduino, which processes
 Simultaneously, the robot moves towards the fire using DC motors controlled by the L293D motor driver. A servo motor helps adjust the nozzle position for accurate water spraying. The entire system operates with a dedicated power supply, ensuring uninterrupted functionality. 
 
 
-The Full code is in my repo in the report file
+The Full code is in my repo 
+and working and all details in the report file
 
