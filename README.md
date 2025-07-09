@@ -6,6 +6,8 @@ We wanted to build something that could act immediately in such situations — w
 So, we designed an **autonomous robot** using **Arduino** that can detect fire using an **IR flame sensor**, figure out the direction of the flame, and move towards it.
 Once it's close enough, it turns on a **mini water pump** to spray water and put out the fire.
 
+The Image of the ROBOT is Here: (https://github.com/user-attachments/assets/d5de0124-7f23-4ccf-948c-fdfa381eb568)
+
 Here’s how we built it
 
 Required Components are: 
@@ -19,8 +21,11 @@ Required Components are:
 8. A small can
 9. Connecting wires
 
-
+working:
 The fire sensor detects flames and sends signals to the Arduino, which processes the input and triggers necessary actions. Once fire is detected, the Arduino activates the water pump, drawing water from the container and spraying it onto the fire to extinguish it. 
 
 Simultaneously, the robot moves towards the fire using DC motors controlled by the L293D motor driver. A servo motor helps adjust the nozzle position for accurate water spraying. The entire system operates with a dedicated power supply, ensuring uninterrupted functionality. 
+
+
+The Full code is in my repo in the report file
 
